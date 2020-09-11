@@ -1,0 +1,54 @@
+Peso, Força, Agilidade
+
+snowli 3 / 3 / 3
+antonov 5/4/2
+
+andar, pular, atacar
+STAMINA porcentagem
+
+yeti 5/2/4
+sonya 1/2/5
+
+linus 2/3/4
+sanna 4/3/2
+SNOWLI - GLOBO DE NEVE
+YETI - CAVERNA NO HIMALAIA
+SONYA - RING DE PATINAÇÂO
+ANTONOV - QUARTEL GENERAL DA URSAL
+LINUS - ICEBERG ANTARTICO
+SANNA - VILA ESQUIMÓ/INUITE
+
+
+power up
+AUMENTAR buff
+diminuit debuff
+
+"bebado/confuso" controles ficam trocados
+power up aleatorio
+
+se sobrar tempo
+especial
+uma animação de ataque só
+mais de uma se sobrar tempo
+power up
+arma de raio congelante
+----------------------------------------------------------------
+
+se der treta no controle do teclado bota geral pra joystick 1 pra ver
+
+--------------------------------------------------
+Funcionalidades:
+SplashScreen OK
+Menu
+Options
+Instructions
+SelectPlayer
+SelectLevel
+
+GAMES
+
+Results
+
+0-idle
+1-walk
+2-atack
