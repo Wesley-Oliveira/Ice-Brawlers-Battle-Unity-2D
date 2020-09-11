@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - IceFloor
+  - Floor
+  - Death
+  - Player1
+  - Player2
+  - Player3
+  - Player4
+  - arma
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 307791225
+    locked: 0
+  - name: frente1
+    uniqueID: 1878068563
+    locked: 0
+  - name: frente2
+    uniqueID: 4173037469
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
